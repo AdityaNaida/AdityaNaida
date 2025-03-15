@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓  I'm a 3rd year Journalism Student<br>👨‍💻 Full Stack Developer (MERN)<br>💻 Currently working on Giftlaya. Ex - Webdenso<br>💪 I like to do workouts on my free time<br>
+👨‍🎓  I'm a 3rd year Journalism Student<br>👨‍💻 Full Stack Developer (MERN)<br>💻 Currently working on Yaduka Agrotech Pvt Ltd<br>💪 I like to do workouts on my free time<br>
 
 
 # 💻 Tech Stack:
