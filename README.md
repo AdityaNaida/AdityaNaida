@@ -1,15 +1,112 @@
-# 💫 About Me:
-👨‍💻 Full Stack Developer (MERN)<br>💻 Currently working on Yaduka Agrotech Ltd<br>💪 I like to do workouts on my free time<br>
+# Hi, I'm Aditya 👋
 
+📍 **Kolkata** | 💼 **CPaaS Developer** | 🚀 **CEO @ Nextwebflow** | 🏢 **SDE @ Yaduka Agrotech**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaNaida&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaNaida&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaNaida&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+> Full-stack software engineer building scalable SaaS platforms and WhatsApp Business API solutions. Focused on backend infrastructure, system design, and driving business growth through technology.
+
+## Current Projects
+
+- 🚀 **[Splashify Pro](https://splashifypro.com)** - Meta-verified WhatsApp Business API platform for automation and bulk messaging
+- 🤝 **[Splashify Pro Partner](https://partner.splashifypro.com)** - Partner management and reseller platform
+- 🏢 **[Team Yaduka](https://teamyaduka.in)** - Business Management System
+- 🏭 **[KeepItCool](https://keepitcool.app)** - Warehouse & Cold Storage Management System
+- 🎈 **[Balloondekor](https://balloondekor.com)** - Party Decoration E-commerce platform
+- 🎯 **[Nextwebflow](https://www.nextwebflow.com)** - Web development and digital solutions agency
+- 🤖 **[NeuralAI](https://neuralai-frontend.vercel.app/)** (closed source) - AI-powered chatbot with natural language processing
+
+### Production SaaS Platforms
+- **[Splashify Pro](https://splashifypro.com)** - Next.js dashboard for campaign management
+- **[partners API system](https://partner.splashifypro.com)** - Complete partner ecosystem
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/AdityaNaida)
+
+## What I'm Doing
+
+- **Building scalable APIs** - Architecting backend systems that handle millions of users with GoFiber, ScyllaDB, and Redis
+- **WhatsApp Business API** - Creating CPaaS solutions for enterprises with Meta-verified integrations
+- **System design** - Optimizing database queries, implementing caching strategies, and monitoring with Grafana/Prometheus
+- **Learning** - Exploring Rust and Go for high-performance services, diving deeper into distributed systems
+- **DevOps** - Managing VPS infrastructure with Docker, implementing CI/CD workflows
+
+## Tech Stack & Skills
+
+### Backend
+- **Frameworks**: NestJS, Express.js, GoFiber
+- **Languages**: TypeScript, JavaScript, Go (learning), Rust (learning)
+- **Databases**: PostgreSQL, Supabase, Redis, ScyllaDB, MongoDB, MySQL
+- **APIs**: RESTful
+
+### Frontend
+- **Frameworks**: Next.js, React
+- **Styling**: TailwindCSS, CSS3
+- **State Management**: React Context, Redux
+
+### DevOps & Infrastructure
+- **Containerization**: Docker, Docker Compose
+- **Monitoring**: Grafana, Prometheus, PM2
+- **Hosting**: VPS, Vercel, Render, AWS
+- **Version Control**: Git, GitHub
+
+### Tools & Platforms
+- Linux server administration
+- Database optimization and indexing
+- System architecture and scalability
+- API design and documentation
+
+## Stats
+
+- 👨‍💻 **96 repositories** (29 public, 67 private)
+- 🔨 **Active contributor** across full-stack projects
+- 🏢 **3+ years** of professional development experience
+- 🚀 **Multiple production applications** serving real users
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@AdityaNaid46542-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AdityaNaid46542)
+[![LinkedIn](https://img.shields.io/badge/-Aditya_Naida-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-naida)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdityaNaida)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaNaida&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Philosophy
+
+> "Code with purpose, build with passion" - Creating solutions that solve real business problems while maintaining code quality and scalability. Currently focused on WhatsApp Business API ecosystem and helping businesses automate their customer communication.
+
+<details>
+<summary>Random Facts</summary>
+
+- Started coding journey with JavaScript and never looked back
+- Coffee-powered developer based in Kolkata
+- Building in public and learning every day
+- Passionate about backend architecture and API design
+- Always exploring new technologies (currently: Rust & Go)
+- Manage multiple production systems running on VPS infrastructure
+
+</details>
+
+---
+
+### Current Focus
+
+- 🔭 Scaling SplashifyPro to handle enterprise-level traffic
+- 🌱 Learning distributed systems and microservices architecture
+- 👯 Open to collaborating on SaaS and API-focused projects
+- 💬 Ask me about NestJS, Next.js, PostgreSQL, Docker, or WhatsApp Business API
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aditya-naida)
+- ⚡ Fun fact: Running a CPaaS startup while pursuing a full-time SDE job
+
